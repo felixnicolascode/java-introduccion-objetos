@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="proyecto-bytebank - Creación de clase Cuenta">
-      <change afterPath="$PROJECT_DIR$/src/CrearCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="CrearCuenta - POO - Objeto: primeraCuenta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrearCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrearCuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +68,19 @@
       <option name="project" value="LOCAL" />
       <updated>1686762523597</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CrearCuenta - POO - Objeto: primeraCuenta">
+      <created>1686774909174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686774909174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="proyecto-bytebank - Creación de clase Cuenta" />
-    <option name="LAST_COMMIT_MESSAGE" value="proyecto-bytebank - Creación de clase Cuenta" />
+    <MESSAGE value="CrearCuenta - POO - Objeto: primeraCuenta" />
+    <option name="LAST_COMMIT_MESSAGE" value="CrearCuenta - POO - Objeto: primeraCuenta" />
   </component>
 </project>
