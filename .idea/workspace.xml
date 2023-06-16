@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="TestReferencia - POO - Objeto: primeraCuenta - Objeto: segundaCuenta - Atributos">
-      <change afterPath="$PROJECT_DIR$/src/PruebaMetodos.java" afterDir="false" />
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="PruebaMetodos - POO - Implementación del Metodo depositar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaMetodos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686847213952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="PruebaMetodos - POO - Implementación del Metodo depositar">
+      <created>1686867434742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686867434742</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,6 +121,7 @@
     <MESSAGE value="CrearCuenta - POO - Objeto: primeraCuenta" />
     <MESSAGE value="CrearCuenta - POO - Objeto: primeraCuenta - Objeto: segundaCuenta - Atributos" />
     <MESSAGE value="TestReferencia - POO - Objeto: primeraCuenta - Objeto: segundaCuenta - Atributos" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestReferencia - POO - Objeto: primeraCuenta - Objeto: segundaCuenta - Atributos" />
+    <MESSAGE value="PruebaMetodos - POO - Implementación del Metodo depositar" />
+    <option name="LAST_COMMIT_MESSAGE" value="PruebaMetodos - POO - Implementación del Metodo depositar" />
   </component>
 </project>
