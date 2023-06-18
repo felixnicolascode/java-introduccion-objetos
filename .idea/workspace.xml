@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="PruebaMetodos - POO - Referenciación de objetos">
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestReferencia2.java" afterDir="false" />
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="TestReferencia2 - POO - Referenciación de objetos - Clase Cliente">
+      <change afterPath="$PROJECT_DIR$/src/TestReferencia3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestReferencia2">
+  <component name="RunManager" selected="Application.TestReferencia3">
     <configuration name="CrearCuenta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CrearCuenta" />
       <module name="proyecto-bytebank" />
@@ -69,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestReferencia3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestReferencia3" />
+      <module name="proyecto-bytebank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestReferencia3" />
         <item itemvalue="Application.TestReferencia2" />
         <item itemvalue="Application.PruebaMetodos" />
         <item itemvalue="Application.CrearCuenta" />
@@ -129,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686879538819</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TestReferencia2 - POO - Referenciación de objetos - Clase Cliente">
+      <created>1687110879012</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687110879012</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +152,7 @@
     <MESSAGE value="TestReferencia - POO - Objeto: primeraCuenta - Objeto: segundaCuenta - Atributos" />
     <MESSAGE value="PruebaMetodos - POO - Implementación del Metodo depositar" />
     <MESSAGE value="PruebaMetodos - POO - Referenciación de objetos" />
-    <option name="LAST_COMMIT_MESSAGE" value="PruebaMetodos - POO - Referenciación de objetos" />
+    <MESSAGE value="TestReferencia2 - POO - Referenciación de objetos - Clase Cliente" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestReferencia2 - POO - Referenciación de objetos - Clase Cliente" />
   </component>
 </project>
