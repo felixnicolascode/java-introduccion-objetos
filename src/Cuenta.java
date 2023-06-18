@@ -1,9 +1,12 @@
+// entidad cuenta
 public class Cuenta {
+    // atributos
     double saldo;
     int agencia;
     int numero;
-    String titular;
+    Cliente titular;
 
+    // metodos
     void depositar(double valor) {
         this.saldo += valor;
     }
