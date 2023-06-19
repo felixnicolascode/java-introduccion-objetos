@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="TestReferencia2 - POO - Valores Null - Objeto Cliente">
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="TestReferencia3 - POO - Referencias inicialización">
+      <change afterPath="$PROJECT_DIR$/src/PruebaAcceso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestReferencia3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestReferencia3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestReferencia3">
+  <component name="RunManager" selected="Application.PruebaAcceso">
     <configuration name="CrearCuenta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CrearCuenta" />
       <module name="proyecto-bytebank" />
@@ -47,15 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PruebaMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PruebaMetodos" />
+    <configuration name="PruebaAcceso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PruebaAcceso" />
       <module name="proyecto-bytebank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestReferencia" />
+    <configuration name="PruebaMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PruebaMetodos" />
       <module name="proyecto-bytebank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PruebaAcceso" />
         <item itemvalue="Application.TestReferencia3" />
         <item itemvalue="Application.TestReferencia2" />
         <item itemvalue="Application.PruebaMetodos" />
         <item itemvalue="Application.CrearCuenta" />
-        <item itemvalue="Application.TestReferencia" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687111595290</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="TestReferencia3 - POO - Referencias inicialización">
+      <created>1687124382859</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687124382859</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,6 +169,7 @@
     <MESSAGE value="PruebaMetodos - POO - Referenciación de objetos" />
     <MESSAGE value="TestReferencia2 - POO - Referenciación de objetos - Clase Cliente" />
     <MESSAGE value="TestReferencia2 - POO - Valores Null - Objeto Cliente" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestReferencia2 - POO - Valores Null - Objeto Cliente" />
+    <MESSAGE value="TestReferencia3 - POO - Referencias inicialización" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestReferencia3 - POO - Referencias inicialización" />
   </component>
 </project>
