@@ -1,9 +1,9 @@
 // entidad cuenta
 public class Cuenta {
     // atributos
-    double saldo;
-    int agencia;
-    int numero;
+    private double saldo;
+    private int agencia;
+    private int numero;
     Cliente titular = new Cliente();
 
     // metodos
@@ -11,7 +11,7 @@ public class Cuenta {
         this.saldo += valor;
     }
 
-    private boolean retirar(double valor) {
+    public boolean retirar(double valor) {
         if (this.saldo >= valor) {
             this.saldo -= valor;
             return true;
@@ -30,6 +30,19 @@ public class Cuenta {
             return false;
         }
 
+    }
 
+    public double getSaldo(){
+        return this.saldo;
+    }
+
+    public void setAgencia(int agencia) {
+        if (agencia>0){
+            this.agencia = agencia;
+        }
+    }
+
+    public int getAgencia() {
+        return agencia;
     }
 }

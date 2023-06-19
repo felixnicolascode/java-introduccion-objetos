@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="TestReferencia3 - POO - Referencias inicialización">
-      <change afterPath="$PROJECT_DIR$/src/PruebaAcceso.java" afterDir="false" />
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaAcceso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaAcceso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687124382859</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()">
+      <created>1687207047539</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687207047539</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +178,7 @@
     <MESSAGE value="TestReferencia2 - POO - Referenciación de objetos - Clase Cliente" />
     <MESSAGE value="TestReferencia2 - POO - Valores Null - Objeto Cliente" />
     <MESSAGE value="TestReferencia3 - POO - Referencias inicialización" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestReferencia3 - POO - Referencias inicialización" />
+    <MESSAGE value="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()" />
+    <option name="LAST_COMMIT_MESSAGE" value="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()" />
   </component>
 </project>
