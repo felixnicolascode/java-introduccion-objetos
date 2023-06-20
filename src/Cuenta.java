@@ -6,6 +6,24 @@ public class Cuenta {
     private int numero;
     private Cliente titular;
 
+    private static int total = 0; // esta variable pertenece a la clase, no a la instancia
+
+    public Cuenta(){
+
+    }
+
+    public Cuenta(int agencia){
+
+        if(agencia <= 0){
+            System.out.println("No se permite 0");
+            this.agencia = 1;
+        }else {
+            this.agencia = agencia;
+        }
+        total++;
+        System.out.println("Se van creando: "+total+" cuentas.");
+    }
+
     // metodos
     void depositar(double valor) {
         this.saldo += valor;
@@ -42,6 +60,8 @@ public class Cuenta {
     public void setAgencia(int agencia) {
         if (agencia > 0) {
             this.agencia = agencia;
+        }else {
+            System.out.println("No estan permitidos los negativos");
         }
     }
 
