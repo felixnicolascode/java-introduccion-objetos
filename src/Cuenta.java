@@ -4,7 +4,7 @@ public class Cuenta {
     private double saldo;
     private int agencia;
     private int numero;
-    Cliente titular = new Cliente();
+    private Cliente titular;
 
     // metodos
     void depositar(double valor) {
@@ -21,28 +21,44 @@ public class Cuenta {
     }
 
     public boolean trasferir(double valor, Cuenta cuenta) {
-        if (this.saldo>=valor){
+        if (this.saldo >= valor) {
             this.saldo = this.saldo - valor;
             //cuenta.saldo = cuenta.saldo + valor;
             cuenta.depositar(valor);
             return true;
-        }else{
+        } else {
             return false;
         }
-
     }
 
-    public double getSaldo(){
+    public double getSaldo() {
         return this.saldo;
-    }
-
-    public void setAgencia(int agencia) {
-        if (agencia>0){
-            this.agencia = agencia;
-        }
     }
 
     public int getAgencia() {
         return agencia;
     }
+
+    public void setAgencia(int agencia) {
+        if (agencia > 0) {
+            this.agencia = agencia;
+        }
+    }
+
+    public int getNumero() {
+        return numero;
+    }
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public Cliente getTitular() {
+        return titular;
+    }
+
+    public void setTitular(Cliente titular) {
+        this.titular = titular;
+    }
+
 }

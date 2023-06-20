@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="Getters y Setters - POO - Encapsulamiento">
+      <change afterPath="$PROJECT_DIR$/src/PruebaEncapsulamiento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrearCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrearCuenta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PruebaAcceso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaAcceso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestReferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestReferencia2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestReferencia2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestReferencia3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestReferencia3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes"
   }
-}</component>
-  <component name="RunManager" selected="Application.PruebaAcceso">
-    <configuration name="CrearCuenta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CrearCuenta" />
-      <module name="proyecto-bytebank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.CrearCuenta">
     <configuration name="PruebaAcceso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PruebaAcceso" />
       <module name="proyecto-bytebank" />
@@ -55,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PruebaMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PruebaMetodos" />
+    <configuration name="PruebaEncapsulamiento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PruebaEncapsulamiento" />
       <module name="proyecto-bytebank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PruebaAcceso" />
-        <item itemvalue="Application.TestReferencia3" />
         <item itemvalue="Application.TestReferencia2" />
-        <item itemvalue="Application.PruebaMetodos" />
+        <item itemvalue="Application.TestReferencia3" />
+        <item itemvalue="Application.PruebaEncapsulamiento" />
         <item itemvalue="Application.CrearCuenta" />
+        <item itemvalue="Application.PruebaAcceso" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687207047539</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Getters y Setters - POO - Encapsulamiento">
+      <created>1687218882590</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687218882590</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +188,7 @@
     <MESSAGE value="TestReferencia2 - POO - Valores Null - Objeto Cliente" />
     <MESSAGE value="TestReferencia3 - POO - Referencias inicialización" />
     <MESSAGE value="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()" />
-    <option name="LAST_COMMIT_MESSAGE" value="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()" />
+    <MESSAGE value="Getters y Setters - POO - Encapsulamiento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getters y Setters - POO - Encapsulamiento" />
   </component>
 </project>
