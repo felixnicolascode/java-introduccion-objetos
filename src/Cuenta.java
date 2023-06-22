@@ -6,7 +6,7 @@ public class Cuenta {
     private int numero;
     private Cliente titular;
 
-    private static int total = 0; // esta variable pertenece a la clase, no a la instancia
+    public static int total = 0; // esta variable pertenece a la clase, no a la instancia
 
     public Cuenta(){
 
@@ -80,5 +80,10 @@ public class Cuenta {
     public void setTitular(Cliente titular) {
         this.titular = titular;
     }
+
+    public static int getTotal(){
+        return Cuenta.total;
+    }
+
 
 }

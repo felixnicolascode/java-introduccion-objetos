@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="Encapsulamiento y Visibilidad - Actualización de Getters y Setters">
-      <change afterPath="$PROJECT_DIR$/src/PruebaConstructor.java" afterDir="false" />
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="Variables estaticas - total - contador como elemento de clase y no de instancia">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaConstructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687281774685</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Variables estaticas - total - contador como elemento de clase y no de instancia">
+      <created>1687298875042</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687298875042</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,6 +202,7 @@
     <MESSAGE value="PruebaAcceso - POO - Encapsulamiento - Modificador de acceso privado - metodo retirar()" />
     <MESSAGE value="Getters y Setters - POO - Encapsulamiento" />
     <MESSAGE value="Encapsulamiento y Visibilidad - Actualización de Getters y Setters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulamiento y Visibilidad - Actualización de Getters y Setters" />
+    <MESSAGE value="Variables estaticas - total - contador como elemento de clase y no de instancia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables estaticas - total - contador como elemento de clase y no de instancia" />
   </component>
 </project>
