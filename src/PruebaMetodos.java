@@ -14,7 +14,7 @@ public class PruebaMetodos {
         cuentaDeJimena.depositar(1000);
 
         boolean exitoTransferencia = cuentaDeJimena.trasferir(300, cuentaDeDiego);
-        if(exitoTransferencia) {
+        if (exitoTransferencia) {
             System.out.println("transferencia exitosa");
         } else {
             System.out.println("falto dinero");
