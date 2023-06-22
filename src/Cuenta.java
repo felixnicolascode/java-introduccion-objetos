@@ -8,20 +8,20 @@ public class Cuenta {
 
     public static int total = 0; // esta variable pertenece a la clase, no a la instancia
 
-    public Cuenta(){
+    public Cuenta() {
 
     }
 
-    public Cuenta(int agencia){
+    public Cuenta(int agencia) {
 
-        if(agencia <= 0){
+        if (agencia <= 0) {
             System.out.println("No se permite 0");
             this.agencia = 1;
-        }else {
+        } else {
             this.agencia = agencia;
         }
         total++;
-        System.out.println("Se van creando: "+total+" cuentas.");
+        System.out.println("Se van creando: " + total + " cuentas.");
     }
 
     // metodos
@@ -60,7 +60,7 @@ public class Cuenta {
     public void setAgencia(int agencia) {
         if (agencia > 0) {
             this.agencia = agencia;
-        }else {
+        } else {
             System.out.println("No estan permitidos los negativos");
         }
     }
@@ -81,7 +81,7 @@ public class Cuenta {
         this.titular = titular;
     }
 
-    public static int getTotal(){
+    public static int getTotal() {
         return Cuenta.total;
     }
 
