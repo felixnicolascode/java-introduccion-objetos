@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="Variables estaticas - total - contador como elemento de clase y no de instancia">
+    <list default="true" id="bbcb74a5-94f5-4a07-a4b4-8b45ecd0084c" name="Changes" comment="PruebaConstructor - Actualización de metodos - Metodo estatico">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PruebaConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaConstructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5199fdd7-7946-4550-a4f9-3c38a00780a8" />
+        <option name="url" value="https://github.com/orangecatcode/java-introduccion-objetos.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -186,7 +197,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687298875042</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="PruebaConstructor - Actualización de metodos - Metodo estico">
+      <created>1687394729739</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687394729739</updated>
+    </task>
+    <task id="LOCAL-00015" summary="PruebaConstructor - Actualización de metodos - Metodo estatico">
+      <created>1687394792844</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687394792844</updated>
+    </task>
+    <task id="LOCAL-00016" summary="PruebaConstructor - Actualización de metodos - Metodo estatico">
+      <created>1687395010318</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687395010318</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +235,8 @@
     <MESSAGE value="Getters y Setters - POO - Encapsulamiento" />
     <MESSAGE value="Encapsulamiento y Visibilidad - Actualización de Getters y Setters" />
     <MESSAGE value="Variables estaticas - total - contador como elemento de clase y no de instancia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variables estaticas - total - contador como elemento de clase y no de instancia" />
+    <MESSAGE value="PruebaConstructor - Actualización de metodos - Metodo estico" />
+    <MESSAGE value="PruebaConstructor - Actualización de metodos - Metodo estatico" />
+    <option name="LAST_COMMIT_MESSAGE" value="PruebaConstructor - Actualización de metodos - Metodo estatico" />
   </component>
 </project>
